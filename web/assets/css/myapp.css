@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px;
+}
+
+.footer {
+    width:100%;
+    position: absolute;
+    bottom: 50px;
+    height: 40px;
+}

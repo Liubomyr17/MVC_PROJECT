@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/assets/js/AJAX, XHR OBJECT AND TEXT FILE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/assets/js/AJAX, XHR OBJECT AND TEXT FILE/AJAX, XHR OBJECT AND TEXT FILE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/assets/js/HTTP Methods Project" vcs="Git" />
   </component>
 </project>
