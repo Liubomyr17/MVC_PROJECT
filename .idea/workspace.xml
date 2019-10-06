@@ -7,44 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3d5e6a-fb96-4bd1-af9e-ced6d16b36b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/about.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/contact.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/shared/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/views/shared/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/JS/AJAX, XHR OBJECT AND TEXT FILE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/JS/HTTP Methods Project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/myapp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/src/main/java/com/MVC_Project/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/src/main/java/com/MVC_Project/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/views/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_PROJECT_war_exploded/WEB-INF/views/page.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MVC_Project/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MVC_Project/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/JS/AJAX, XHR OBJECT AND TEXT FILE" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/JS/AJAX, XHR OBJECT AND TEXT FILE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/assets/js/AJAX, XHR OBJECT AND TEXT FILE/AJAX, XHR OBJECT AND TEXT FILE" beforeDir="false" afterPath="$PROJECT_DIR$/web/assets/js/AJAX, XHR OBJECT AND TEXT FILE/AJAX, XHR OBJECT AND TEXT FILE" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -201,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570185180194</updated>
       <workItem from="1570185187356" duration="9249000" />
-      <workItem from="1570258794256" duration="20077000" />
+      <workItem from="1570258794256" duration="20080000" />
     </task>
     <servers />
   </component>
