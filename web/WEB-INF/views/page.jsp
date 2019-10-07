@@ -27,10 +27,15 @@
 
     <title>Online Shopping - ${title}</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="${css}/bootstrap.css" rel="stylesheet">
+    <script>
+        window.menu = '${title}';
+    </script>
 
+    <!-- Bootstrap core CSS -->
     <link href="${css}/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap theme CSS -->
+    <link href="${css}/theme-bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="${css}/myapp.css" rel="stylesheet">
@@ -38,33 +43,43 @@
 </head>
 
 <body>
+<div class="wrapper">
 
-<!-- Navigation -->
-<%@include file="./shared/navbar.jsp"%>
+    <!-- Navigation -->
+    <%@include file="./shared/navbar.jsp"%>
 
-<!-- Loading home page -->
-<c:if test="${userClickHome == true}">
-<%@include file="home.jsp"%>
-</c:if>
+    <!-- Page Content -->
+    <div class="content">
+        <!-- Loading home content -->
+        <c:if test="${userClickHome == true }">
+            <%@include file="home.jsp"%>
+        </c:if>
 
-<!-- About -->
-<c:if test="${userClickAbout == true}">
-    <%@include file="about.jsp"%>
-</c:if>
+        <!-- Load only when user clicks About -->
+        <c:if test="${userClickAbout == true }">
+            <%@include file="about.jsp"%>
+        </c:if>
 
-<!-- Contact -->
-<c:if test="${userClickContact == true}">
-    <%@include file="contact.jsp"%>
-</c:if>
+        <!-- Load only when user clicks Contact -->
+        <c:if test="${userClickContact == true }">
+            <%@include file="contact.jsp"%>
+        </c:if>
 
-<!-- Footer comes here -->
-<%@include file="./shared/footer.jsp"%>
+    </div>
+
+    <!-- Footer comes here -->
+    <%@include file="./shared/footer.jsp" %>
 
 
-<!-- Bootstrap core JavaScript -->
+
+    <!-- Bootstrap core JavaScript -->
 <script src="${js}/jquery.js"></script>
-<script src="${js}/bootstrap.bundle.js"></script>
+<script src="${js}/bootstrap.bundle.min.js"></script>
 
+<!-- Self coded javascript -->
+<script src="${js}/myapp.js"></script>
+
+</div>
 </body>
 
 </html>
